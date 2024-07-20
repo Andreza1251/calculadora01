@@ -3,6 +3,3 @@
 
 Primeiramente, usei como baso o seguinte esquema de calculadora:
 
-|                     0 |
-|-----|-----|-----|-----|
-|  +  |  -  |  x  |  :  |
