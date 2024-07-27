@@ -11,7 +11,7 @@
 
 ### basicamente, o programa da calculadora precisa "ouvir" as teclas com os números e as teclas que possuem os operadores aritméticos quando o usuário clica os botões, realizar o cálculo necessário e mostrar o resultado no display
 
-
+### há uma seção que é separada por uma tag <div> no htlm que engloba a calculadora no geral, uma <div> para cuidar do display, uma <div> para cuidar dos botôes e dentro dela mais uma <div> 
 
 
 
