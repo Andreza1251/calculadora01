@@ -17,6 +17,15 @@ Como está caixa (div) cuida diretamente dos botões da calculadora, então é n
 ![Imagem de formando o cssgridlayout](./assets/gridlayout1.png)
 
 
+agora que a div referente a esta classe **class="calculadora_botoes** se tornou um display grid, todos os seus filhos, nocaso as tags button referente aos botões da calculadora se tornam **grid items**
+
+Neste momento, a aparência está desta forma:
+
+![Imagem de formando o cssgridlayout](./assets/depoisdegridlista.png)
+
+
+
+
 
 
 

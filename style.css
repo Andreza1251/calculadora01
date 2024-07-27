@@ -45,7 +45,7 @@ h1{
 
 
 
-grid-template-columns: 1fr 1fr 1fr 1fr; 
+/* grid-template-columns: 1fr 1fr 1fr 1fr; 
     grid-auto-rows: 50px;
 
 
@@ -54,4 +54,4 @@ grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-row-start: 2;
     grid-row-end: 6;
 }
-
+ */
