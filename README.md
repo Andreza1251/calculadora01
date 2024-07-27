@@ -23,6 +23,13 @@ Neste momento, a aparência está desta forma:
 
 ![Imagem de formando o cssgridlayout](./assets/depoisdegridlista.png)
 
+Como podemos observar pela imagem, mesmo dizendo que se trata de um grid, está se comportando ainda como uma lista com item abaixo de item, no caso botão abaixo de botão. Para deixarmos como com linhas e colunas, vamos definir as **trilhas de colunas** usando a propriedade **grid-template-columns**
+
+
+![Imagem da formação de colunas](./assets/trilhacoluna.png)
+
+
+
 
 
 
