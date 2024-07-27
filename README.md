@@ -29,6 +29,15 @@ Como podemos observar pela imagem, mesmo dizendo que se trata de um grid, está 
 ![Imagem da formação de colunas](./assets/trilhacoluna.png)
 
 
+Aqui está sendo dito a partir desta propriedade grid-template-columns que é necessário formar 4 colunas de 1fr cada uma, por isso foi repetido o valor quatro vezes. A unidade de medida fr seria uma fração do espaço disponível no grid.
+Depois disso, o resultado fica desta forma:
+
+![Imagem da formação de colunas](./assets/colunacomfr.png)
+
+
+
+
+
 
 
 
