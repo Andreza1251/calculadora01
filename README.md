@@ -38,6 +38,12 @@ Como as linhas estão um tanto quanto pequenas, vamos mudar seu tamanho a partir
 
 ![Imagem da formação de colunas com tamanho maior](./assets/autorows.png)
 
+E as linhas dos grid items ou botões da calculadora ficam maiores:
+
+![Imagem da formação de colunas com tamanho maior](./assets/botaomaior.png)
+
+
+
 
 
 
