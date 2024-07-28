@@ -34,6 +34,10 @@ Depois disso, o resultado fica desta forma:
 
 ![Imagem da formação de colunas](./assets/colunacomfr.png)
 
+Como as linhas estão um tanto quanto pequenas, vamos mudar seu tamanho a partir da propriedade **grid-auto-rows** que define o tamanho padrão para as linhas criadas no grid e aqui será colocoado o valor de 50px:
+
+![Imagem da formação de colunas com tamanho maior](./assets/autorows.png)
+
 
 
 
