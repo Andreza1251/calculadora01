@@ -70,6 +70,9 @@ A aparência final da calculadora já está pronta, mas ela ainda não funciona.
 
 ## Funcionalidade da calculadora
 
+Para serem feitas as interações, primeiramente será criado o arquivo JavaScript app.js e linkado no html através da tah script
+
+
 
 
 
