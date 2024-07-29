@@ -48,6 +48,13 @@ Como podemos ver na imagem inicial que está sendo usada como base, a disposiç�
 ![Imagem da formação do botão =](./assets/botao=class.png)
 
 
+No arquivo CSS, será feito sua estilização dizendo através da propriedade **grid-column-start:** que este botão começará na coluna 4 e através da propriedade **grid-row-start:** que começará na linha 2 e pela **grid-row-end:** que terminará na linha 6, no caso na fração de espaço disponível no grid.
+
+![Imagem da formação do botão =](./assets/box1coluna.png)
+
+
+
+
 
 
 
