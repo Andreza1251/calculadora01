@@ -43,7 +43,13 @@ E as linhas dos grid items ou botões da calculadora ficam maiores:
 ![Imagem da formação de colunas com tamanho maior](./assets/botaomaior.png)
 
 
-Como podemos ver na imagem inicial que está sendo usada como base, a disposição dos botões no grid ainda não está igual. O botão que representa o sinal de = tem um tamanho e disposição diferente dos demais. Então para tratar isso, fiz uma classe específica para ele no html para que este botão possa ter sua própria estilização
+Como podemos ver na imagem inicial que está sendo usada como base, a disposição dos botões no grid ainda não está igual. O botão que representa o sinal de = tem um tamanho e disposição diferente dos demais. Então para tratar isso, fiz uma classe específica para ele no html para que este botão possa ter sua própria estilização, ele receberá uma classe própria que é **class="box1"**:
+
+![Imagem da formação do botão =](./assets/botao=class.png)
+
+
+
+
 
 
 
