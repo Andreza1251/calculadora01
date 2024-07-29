@@ -65,6 +65,11 @@ No arquivo CSS, será colocado a estilização para fazer o pipe piscar:
 
 ![Imagem da formação do display](./assets/pipesimbolo.png)
 
+A aparência final da calculadora já está pronta, mas ela ainda não funciona. Para isso, vamos criar suas funcionalidades com JavaScript.
+
+
+## Funcionalidade da calculadora
+
 
 
 
