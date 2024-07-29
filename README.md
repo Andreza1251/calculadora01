@@ -56,6 +56,17 @@ O resultado ficará com esta aparência:
 
 ![Imagem da formação da calculadora](./assets/calculadoraresult.png)
 
+## Estilização do display 
+
+### Por enquanto, o display aparece com o número 0, mas normalmente ão é dessa forma que fica o display de uma calculadora antes de aparecer o resultado do cálculo realizado, então vamos mudar esta estilização 
+
+Vamos modificar no arquivo html onde estava este 0, no caso dentro da tag h1, vamos colocar **class="display_piscar"** e no lugar do número 0 vamos colocar o pipe |
+No arquivo CSS, será colocado a estilização para fazer o pipe piscar:
+
+![Imagem da formação do display](./assets/pipesimbolo.png)
+
+
+
 
 
 
