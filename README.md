@@ -52,6 +52,12 @@ No arquivo CSS, será feito sua estilização dizendo através da propriedade **
 
 ![Imagem da formação do botão =](./assets/box1coluna.png)
 
+O resultado ficará com esta aparência:
+
+![Imagem da formação da calculadora](./assets/calculadoraresult.png)
+
+
+
 
 
 
