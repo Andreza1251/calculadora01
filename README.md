@@ -72,6 +72,8 @@ A aparência final da calculadora já está pronta, mas ela ainda não funciona.
 
 Para serem feitas as interações, primeiramente será criado o arquivo JavaScript app.js e linkado no html através da tah script
 
+![Imagem de linkando o arquivo javascript](./assets/linkandojs.png)
+
 
 
 
