@@ -75,6 +75,15 @@ Para serem feitas as interações, primeiramente será criado o arquivo JavaScri
 ![Imagem de linkando o arquivo javascript](./assets/linkandojs.png)
 
 
+Agora para fazer a calculadora funcionar e interagir com os comandos do usuário, vamos colocar os códigos dentro deste arquivo app.js
+
+
+
+
+
+
+
+
 
 
 
